@@ -31,7 +31,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ### ✅ Accepted Minimum cost walk in weighted-graph 
 
-![Minimum cost](img/questao_31108.png)
+![Minimum cost](/img/questao_31108.png)
 
 
 ---
