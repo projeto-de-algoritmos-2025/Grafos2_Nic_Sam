@@ -17,10 +17,10 @@
 
 ## 🧠 Questões Desenvolvidas
 
-A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
+A dupla desenvolveu quatro questões do leetcode.
 
-1. 
-2.
+1. Minimum cost walk in weighted-graph
+2. Design Graph With Shortest Path Calculator
 3.  
 4. 
 
@@ -31,8 +31,9 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ### ✅ Accepted Minimum cost walk in weighted-graph 
 
-![Minimum cost](/img/questao_3108.png)
+![Minimum cost walk in weighted-graph](/img/questao_3108.png)
 
+![Design Graph With Shortest Path Calculator](/img/questao_3108.png)
 
 ---
 

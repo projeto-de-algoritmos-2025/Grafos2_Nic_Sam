@@ -13,6 +13,7 @@ class UnionFind:
         yr = self.find(y)
         if xr == yr:
             return
+        # Union by size
         if self.size[xr] < self.size[yr]:
             self.parent[xr] = yr
             self.size[yr] += self.size[xr]
@@ -21,12 +22,14 @@ class UnionFind:
             self.size[xr] += self.size[yr]
 
 class Solution:
-    def minimumCost(self, n, edges, query):
+    def minimumCost(self, n: int, edges: list[list[int]], query: list[list[int]]) -> list[int]:
+        # 1. Build Components
         uf = UnionFind(n)
         for u, v, w in edges:
             uf.union(u, v)
 
-        component_cost = {}
+        # 2. Get cost of each component
+        component_cost = {}  # root -> cost
         for u, v, w in edges:
             root = uf.find(u)
             if root not in component_cost:
@@ -34,6 +37,7 @@ class Solution:
             else:
                 component_cost[root] &= w
 
+        # 3. Queries
         res = []
         for src, dst in query:
             r1, r2 = uf.find(src), uf.find(dst)
