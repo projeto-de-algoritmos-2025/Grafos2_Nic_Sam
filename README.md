@@ -31,7 +31,7 @@ A dupla desenvolveu quatro questões do leetcode.
 
 ### ✅ Accepted Minimum cost walk in weighted-graph 
 
-![Minimum cost walk in weighted-graph](img/questao_3108.png)
+![Minimum cost walk in weighted-graph](/img/questao_3108.png)
 
 ### ✅ Accepted Design Graph With Shortest Path Calculator
 
