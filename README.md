@@ -33,7 +33,7 @@ A dupla desenvolveu quatro questões do leetcode.
 
 ![Minimum cost walk in weighted-graph](/img/questao_3108.png)
 
-![Design Graph With Shortest Path Calculator](/img/questao_3108.png)
+![Design Graph With Shortest Path Calculator](/img/questao_2642.png)
 
 ---
 
