@@ -21,8 +21,8 @@ A dupla desenvolveu quatro questões do leetcode.
 
 1. Minimum cost walk in weighted-graph
 2. Design Graph With Shortest Path Calculator
-3.  
-4. 
+3. Path with Maximum Probability 
+4. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
 
 ---
@@ -39,11 +39,11 @@ A dupla desenvolveu quatro questões do leetcode.
 
 ### ✅ Accepted Path with Maximum Probability
 
-![Design Graph With Shortest Path Calculator](/img/1514.png)
+![Path with Maximum Probability](/img/Q1514.jpg)
 
 ### ✅ Accepted Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
-![Design Graph With Shortest Path Calculator](/img/1489.png)
+![Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](/img/Q1489.png)
 
 ---
 
