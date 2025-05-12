@@ -37,6 +37,14 @@ A dupla desenvolveu quatro questões do leetcode.
 
 ![Design Graph With Shortest Path Calculator](/img/questao_2642.png)
 
+### ✅ Accepted Path with Maximum Probability
+
+![Design Graph With Shortest Path Calculator](/img/1514.png)
+
+### ✅ Accepted Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+
+![Design Graph With Shortest Path Calculator](/img/1489.png)
+
 ---
 
 
