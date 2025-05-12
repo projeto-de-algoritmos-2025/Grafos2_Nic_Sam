@@ -19,10 +19,10 @@
 
 A dupla desenvolveu quatro questões do leetcode.
 
-1. Minimum cost walk in weighted-graph
-2. Design Graph With Shortest Path Calculator
-3. Path with Maximum Probability 
-4. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+1. [Minimum cost walk in weighted-graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)
+2. [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
+3. [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/ )
+4. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/?envType=problem-list-v2&envId=minimum-spanning-tree)
 
 
 ---
@@ -52,7 +52,7 @@ A dupla desenvolveu quatro questões do leetcode.
 
 Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordando os principais pontos discutidos ao longo do projeto.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_KELc7rFy8?si=hh0LnkaWPA4z1FDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 ## ⚙️ Instalação
